@@ -1,29 +1,17 @@
-<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="wq.com" resolutions="1x" timestamp="1470519770102">
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="QWE.COM" resolutions="1x" timestamp="1470521765688">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="4108264279" ref="index"/>
+    <file name="index.css" crc="60890076" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="museredirect.js" crc="390470276" ref="tablet>index"/>
-    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="tablet>index:index"/>
-    <file name="museutils.js" crc="334180058" ref="tablet>index:index"/>
-    <file name="jquery.watch.js" crc="293013060" ref="tablet>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index"/>
+    <file name="museutils.js" crc="334180058" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="_tmp-slider-2.jpg" crc="62324572" seo="true" ref="index"/>
-    <file name="html.png" crc="4016547936" seo="true" ref="index"/>
-    <file name="py.png" crc="4265779724" seo="true" ref="index"/>
-    <file name="file.png" crc="4057677998" seo="true" ref="index"/>
-    <file name="javascript.png" crc="297461840" seo="true" ref="index"/>
-    <file name="laptop.png" crc="4004694661" seo="true" ref="index"/>
-    <file name="pyatna_fon_linii_abstrakciya_66994_1920x1080-crop-u226.jpg" crc="257096914" ref="index"/>
+    <file name="yosemite-1.jpg" crc="3939356428" ref="index"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="3964970448" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="3855433131" seo="true" mt="1462126021389" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="3864496437" seo="true" mt="1470519741271" redirect="true"/>
+  <file name="index.html" crc="360719578" seo="true" mt="1470521714700" redirect="true"/>
 </manifest>
